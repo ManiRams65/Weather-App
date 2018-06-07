@@ -1,0 +1,12 @@
+.tableHide{
+    display: none;
+}
+.table-bordered{
+    width:100%;
+}
+#cityArea{
+    margin:30px;
+}
+#getDetails{
+    margin-left: 30px;
+}
